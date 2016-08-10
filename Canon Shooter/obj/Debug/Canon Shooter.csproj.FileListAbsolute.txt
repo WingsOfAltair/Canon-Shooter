@@ -1,0 +1,9 @@
+c:\users\waffles\documents\visual studio 2013\Projects\Canon Shooter\Canon Shooter\bin\Debug\Canon Shooter.exe.config
+c:\users\waffles\documents\visual studio 2013\Projects\Canon Shooter\Canon Shooter\bin\Debug\Canon Shooter.exe
+c:\users\waffles\documents\visual studio 2013\Projects\Canon Shooter\Canon Shooter\bin\Debug\Canon Shooter.pdb
+c:\users\waffles\documents\visual studio 2013\Projects\Canon Shooter\Canon Shooter\obj\Debug\Canon Shooter.csprojResolveAssemblyReference.cache
+c:\users\waffles\documents\visual studio 2013\Projects\Canon Shooter\Canon Shooter\obj\Debug\Canon_Shooter.Form1.resources
+c:\users\waffles\documents\visual studio 2013\Projects\Canon Shooter\Canon Shooter\obj\Debug\Canon_Shooter.Properties.Resources.resources
+c:\users\waffles\documents\visual studio 2013\Projects\Canon Shooter\Canon Shooter\obj\Debug\Canon Shooter.csproj.GenerateResource.Cache
+c:\users\waffles\documents\visual studio 2013\Projects\Canon Shooter\Canon Shooter\obj\Debug\Canon Shooter.exe
+c:\users\waffles\documents\visual studio 2013\Projects\Canon Shooter\Canon Shooter\obj\Debug\Canon Shooter.pdb
